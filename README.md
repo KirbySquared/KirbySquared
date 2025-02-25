@@ -1,5 +1,4 @@
-hatdog
-im putting all my college stuff here 
+my college stuff here 
 <!---
 KirbySquared/KirbySquared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
